@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Court Counter App</string>
+    <string name="TeamA">Team A</string>
+    <string name="TeamB">Team B</string>
+    <string name="TeamC">Team C</string>
+    <string name="O">0</string>
+    <string name="Try">Try</string>
+    <string name="Conversionkick">C KICK</string>
+    <string name="PenaltyKick">P KICK</string>
+    <string name="Reset">Reset</string>
+
+</resources>
